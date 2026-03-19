@@ -6,7 +6,7 @@ pool:
 
 variables:
   nodeVersion: "24.x"
-  azureServiceConnection: "YOUR_AZURE_RM_SERVICE_CONNECTION"
+  azureServiceConnection: "azureDevOpsPractice"
   webAppName: "azureDevOpsPractice"
 
   # AzureWebApp@1 options (Linux)
