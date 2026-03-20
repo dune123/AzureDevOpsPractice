@@ -4,7 +4,7 @@ const app = express();
 
 app.get("/", (req, res) => {
   res.json({
-    message: "Hello from Node.js deployed via Azure DevOps",
+    message: "for the new testing CI/CD ",
     time: new Date().toISOString(),
   });
 });
